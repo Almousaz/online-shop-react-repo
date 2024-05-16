@@ -7,7 +7,9 @@ export const Product = (props) => {
 
   const isInCart = cartItems?.some((item) => item.id === id);
 
+  
 
+    
 
 
 
